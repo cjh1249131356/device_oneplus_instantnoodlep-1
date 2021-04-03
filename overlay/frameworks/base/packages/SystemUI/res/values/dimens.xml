@@ -17,7 +17,7 @@
 -->
 <resources>
     <!-- the padding on the start of the statusbar -->
-    <dimen name="status_bar_padding_start">0dp</dimen>
+    <dimen name="status_bar_padding_start">8px</dimen>
 
     <!-- Starting padding for a left-aligned status bar clock -->
     <dimen name="status_bar_left_clock_starting_padding">0dp</dimen>
@@ -32,7 +32,7 @@
     <dimen name="status_bar_header_height_keyguard">@*android:dimen/status_bar_height</dimen>
 
     <!-- Margin on the left side of the carrier text on Keyguard -->
-    <dimen name="keyguard_carrier_text_margin">0dp</dimen>
+    <dimen name="keyguard_carrier_text_margin">8px</dimen>
 
     <!-- Margin on the right side of the system icon group on Keyguard. -->
     <dimen name="system_icons_keyguard_padding_end">26px</dimen>

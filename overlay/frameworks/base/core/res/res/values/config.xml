@@ -452,7 +452,7 @@
          appearance of the cutout as much as possible, and may be smaller than
          config_mainBuiltInDisplayCutout
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0, 0.0 h 224 v 128 h -200 Z @left</string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0, 0.0 h 218 v 128 h -200 Z @left</string>
 
     <!-- The default refresh rate for a given device. Change this value to set a higher default
          refresh rate. If the hardware composer on the device supports display modes with a higher
